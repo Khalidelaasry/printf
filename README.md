@@ -1,4 +1,4 @@
-# 0x11. C - printf
+ # 0x11. C - printf
 
 ## Description
 
@@ -61,7 +61,7 @@ The project `0x11. C - printf` involves implementing a simplified version of the
 
 ## Usage
 
-To use the custom `printf` function, include the `main.h` header file in your C file and call the function as follows:
+To use the custom   `printf` function, include the `main.h` header file in your C file and call the function as follows:
 
 ## Author
 
